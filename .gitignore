@@ -4,8 +4,6 @@ Saved/
 Binaries/
 *.sdf
 *.opensdf
-*.sln
-*.suo
 
 
 IgnoreTest/DerivedDataCache/
