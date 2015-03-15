@@ -1,3 +1,6 @@
 *.fbx filter=media -crlf
 
 *.jpg filter=media -crlf
+
+*.png filter=media -crlf
+
