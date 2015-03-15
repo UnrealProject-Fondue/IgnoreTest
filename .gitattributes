@@ -4,3 +4,5 @@
 
 *.png filter=media -crlf
 
+*.umap filter=media -crlf
+
