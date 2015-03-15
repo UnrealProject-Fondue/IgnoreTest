@@ -2,7 +2,6 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Binaries/
-Content/
 *.sdf
 *.opensdf
 *.sln
@@ -13,4 +12,3 @@ IgnoreTest/DerivedDataCache/
 IgnoreTest/Intermediate/
 IgnoreTest/Saved/
 IgnoreTest/Binaries/
-IgnoreTest/Content/
