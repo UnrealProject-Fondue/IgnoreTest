@@ -4,7 +4,6 @@ Saved/
 Binaries/
 *.sdf
 *.opensdf
-*.umap
 
 IgnoreTest/DerivedDataCache/
 IgnoreTest/Intermediate/
